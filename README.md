@@ -15,8 +15,11 @@
 
 ### 📸 A Glimpse of My Journey
 <p align="center">
-  <img src="https://photo_2025-09-30_22-39-52.jpg" width="400"/>
-  <img src="https://photo_2025-09-30_22-39-54.jpg" width="400"/>
+  <p align="center">
+  <img src="https://github.com/Instructor-Khurshid/Instructor-Khurshid/blob/main/photo_2025-09-30_22-39-52.jpg" width="400"/>
+  <img src="https://github.com/Instructor-Khurshid/Instructor-Khurshid/blob/main/photo_2025-09-30_22-39-53.jpg" width="400"/>
+</p>
+
 </p>
 
 *(You can replace these with your real photos — e.g., a professional portrait and one teaching photo.)*
